@@ -5,11 +5,11 @@
  
 
 <h4 align="center" color="F85D7F">Stats of my public repositories</h4>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reethu039&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="reethu039" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=reethu039&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="reethu039" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reethuthota&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="reethuthota" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=reethuthota&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="reethuthota" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethu039&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F8D866" alt="reethu039" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethuthota&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F8D866" alt="reethuthota" /></p>  
 
 <h4 align="center"color="F85D7F">Languages and Tools </h4>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -26,4 +26,4 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=reethu039&label=Profile%20views&color=B37FFF&style=flat" alt="reethu039" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=reethuthota&label=Profile%20views&color=B37FFF&style=flat" alt="reethuthota" /></p>
