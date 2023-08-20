@@ -9,7 +9,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=reethuthota&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="reethuthota" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethuthota&langs_count=6&layout=compact&theme=react&bg_color=1F222E&title_color=B37FFF&icon_color=F8D866" alt="reethuthota" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethuthota&layout=donut&theme=react&bg_color=1F222E&title_color=B37FFF" alt="reethuthota" /></p>  
+
 
 <h4 align="center"color="F85D7F">Languages and Tools </h4>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
