@@ -50,3 +50,14 @@
 </table>
 
 ## Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reethuthota&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stats" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reethuthota&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=reethuthota&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/reethuthota/reethuthota/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/reethuthota/count.svg?"  />
+</div>
