@@ -1,4 +1,4 @@
-![Hi 👋, I'm Reethu Thota](banner.png)
+![Hi 👋, I'm Reethu Thota](header_image.png)
 
 ## ⚡️ Languages and Tools
 
