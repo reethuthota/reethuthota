@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reethu Thota</h1>
+![Hi 👋, I'm Reethu Thota](banner.png)
+
 <h2 align="center">Welcome to my github page!</h2>
 
 <h3 align="center" color="F85D7F">:zap: GitHub Stats</h3>
