@@ -56,7 +56,7 @@
   <img src="https://streak-stats.demolab.com?user=reethuthota&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/reethuthota/reethuthota/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/reethuthota/reethuthota/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/reethuthota/count.svg?"  />
