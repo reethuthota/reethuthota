@@ -1,6 +1,6 @@
 ![Hi 👋, I'm Reethu Thota](banner.png)
 
-## Languages and Tech
+## ⚡️ Languages and Tools
 
 <table> 
  <tr>
@@ -48,4 +48,5 @@
   </td>
  </tr>
 </table>
-<hr>
+
+## Stats
