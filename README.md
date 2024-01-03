@@ -2,7 +2,7 @@
 
 ## ⚡️ Languages and Tools
 
-<table> 
+<table align="center"> 
  <tr>
   <td>
    <strong>Languages</strong>
