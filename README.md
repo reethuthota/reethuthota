@@ -19,10 +19,10 @@
    <img src = "https://skillicons.dev/icons?i=py,c,js,swift,solidity&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=html,css,react&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase&theme=dark">
   </td>
  </tr>
  <tr>
