@@ -16,10 +16,10 @@
  </tr>
  <tr>
   <td>
-   <img src = "https://skillicons.dev/icons?i=py,c,js,swift,solidity&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=py,java,c,js,swift,solidity&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=html,css,react&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=html,css,react,flask&theme=dark">
   </td>
   <td>
    <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase&theme=dark">
