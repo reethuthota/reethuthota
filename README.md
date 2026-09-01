@@ -97,15 +97,9 @@ An iOS application for visualizing and interacting with network digital twin dat
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/reethuthota/reethuthota/blob/output/snake.svg)
-
----
-
 <div align="center">
 
 ### Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/reethu-thota/) ·
+[LinkedIn](https://www.linkedin.com/in/reethu-thota/)
 
