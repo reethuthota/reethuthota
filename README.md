@@ -1,64 +1,111 @@
 ![Hi 👋, I'm Reethu Thota](header_image.png)
 
-## ⚡️ Languages and Tools
+**Software Engineer · Backend · Distributed Systems · Networking · Security · Cloud**
 
-<table align="center"> 
- <tr>
-  <td>
-   <strong>Languages</strong>
-  </td>
-  <td>
-   <strong>Web Development</strong>
-  </td>
-  <td>
-   <strong>Database</strong>
-  </td>
- </tr>
- <tr>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=py,java,c,js,swift,solidity&theme=dark">
-  </td>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=html,css,react,flask&theme=dark">
-  </td>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=mysql,sqlite,mongodb,supabase&theme=dark">
-  </td>
- </tr>
- <tr>
-  <td>
-   <strong>DevOps & Deployment</strong>
-  </td>
-  <td>
-   <strong>Version Control</strong>
-  </td>
-  <td>
-   <strong>Miscellaneous</strong>
-  </td>
- </tr>
- <tr>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=githubactions,docker,gcp,vercel&theme=dark">
-  </td>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=git,github&theme=dark">
-  </td>
-  <td>
-   <img src = "https://skillicons.dev/icons?i=arduino,linux,bash&theme=dark">
-  </td>
- </tr>
-</table>
+I’m a software engineer interested in building scalable backend systems, solving complex engineering problems, and understanding how systems behave under the hood.
 
-## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reethuthota&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=reethuthota&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="170" alt="streak graph"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reethuthota&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
-</div>
-  
+I’m particularly interested in **backend engineering, distributed systems, networking, security, and cloud technologies**. Currently, I’m learning **Go** and deepening my understanding of systems and infrastructure.
+
+---
+
+## ⚡️ Languages & Tools
+
+### Programming Languages
+
+Java · Python · JavaScript · Swift · Go *(currently learning)* · C++ *(minimal)*
+
+### Web Development & Backend
+
+MERN Stack · React · Express.js · Node.js · Spring Boot
+
+### Databases
+
+MySQL · MongoDB · Redis
+
+### Cloud
+
+AWS · Microsoft Azure · GCP
+
+### AI / ML
+
+TensorFlow · PyTorch · Keras · Pandas · NumPy
+
+**Generative AI:** Agentic Systems & Workflows · Amazon Bedrock · Bedrock AgentCore
+
+### DevOps & Infrastructure
+
+Docker · Kubernetes · GitHub Actions · Terraform
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ eBPF Process Profiler
+
+A real-time Linux profiler designed to provide visibility into the performance of a running process with minimal overhead.
+
+* Dynamically attaches to running processes without recompilation
+* Captures user and kernel stack traces
+* Tracks CPU and off-CPU activity
+* Detects scheduler switches, lock contention, and slow system calls
+* Uses BPF ring buffers for efficient event delivery
+* Serves profiling data through a WebSocket-based live flamegraph
+
+**Tech:** eBPF · C++ · Linux · BPF CO-RE · WebSockets
+
+---
+
+### 💻 CodeSphere
+
+A collaborative real-time code editor designed around a distributed backend architecture.
+
+**Tech:** Spring Boot · React · Redis · MongoDB · WebSockets
+
+---
+
+### 🤟 Real-Time Sign Language Recognition
+
+A CNN-Transformer based sign language recognition system trained on the WLASL 100-class subset.
+
+* Achieved **96.8% accuracy**
+* Built the model using TensorFlow
+* Developed a Flask-based inference API
+* Presented at **IEEE CVMI 2025**
+
+**Tech:** Python · TensorFlow · CNN · Transformers · Flask
+
+---
+
+### 📱 Nokia Network Digital Twin
+
+An iOS application for visualizing and interacting with network digital twin data.
+
+**Tech:** Swift · iOS
+
+🏆 **1st Place — Nokia Appathon 2024**
+
+---
+
+## 🌱 Currently Learning
+
+* **Go**
+* Data Structures & Algorithms
+* System Design
+* Distributed Systems
+* Linux & Systems Programming
+* Networking & Cloud Infrastructure
+
+---
+
+## 🐍 Contribution Graph
+
 ![Snake animation](https://github.com/reethuthota/reethuthota/blob/output/snake.svg)
 
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/reethuthota/count.svg?"  />
-</div>
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/reethu-thota/) ·
+
